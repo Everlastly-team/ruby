@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'kirill@everlastly.com'
   s.files       = ["lib/everlastly.rb", "example.rb", "tests.rb"]
   s.homepage    = 'https://everlastly.com'
-  s.license     = 'BSD'
+  s.license     = 'BSD-3-Clause'
 end
 
